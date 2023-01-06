@@ -56,7 +56,7 @@ Practicing building clean and fast code
 ### 📊 Stats
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PasanovicHalid&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PasanovicHalid&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
 
 <br/>
 
